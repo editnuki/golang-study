@@ -1,0 +1,1 @@
+# VS codeのgo moduleを利用しているのでSAVEした時点で;が省略されてる

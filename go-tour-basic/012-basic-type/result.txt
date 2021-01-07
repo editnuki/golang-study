@@ -1,0 +1,6 @@
+Type: %T Value: %v
+ false false
+Type: %T Value: %v
+ 18446744073709551615 18446744073709551615
+Type: %T Value: %v
+ (2+3i) (2+3i)
